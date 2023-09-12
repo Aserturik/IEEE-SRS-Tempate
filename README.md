@@ -106,7 +106,7 @@ Don’t really say “System Feature 1.” State the feature name in just a few 
  List the sequences of user actions and system responses that stimulate the behavior defined for this feature. These will correspond to the dialog elements associated with use cases.
 4.1.3   Functional Requirements
 ## :octocat: Gabriel Esteban Niño Avella :octocat:
-1. 
+1. The functional requirements are the one which manager all the inputs-outputs of the system, besides that are responsable of the essencial functionality of the entire system, with the IEEE 830 it has an ordenated form to classify all the requirement, and it improve the way to quickly understand the importance, name, caracteristics, and functionality of each requirement.
 ## :octocat: Julian Camilo Reyes Uribe :octocat:
 2.
 ## :octocat: Juan Sebastián Rodríguez Mateus :octocat:
